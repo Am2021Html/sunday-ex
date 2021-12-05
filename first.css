@@ -1,0 +1,22 @@
+.first-container {
+    margin-left: 60px;
+}
+.h1-tag {
+    font-size: xx-large;
+    font-weight: 900px;
+    color: red;
+}
+
+hr {
+    width: 50px;
+    border: solid 5px;
+    color: red;
+    right:545px;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 40px;
+}
